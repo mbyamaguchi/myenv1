@@ -1,0 +1,16 @@
+jupyterlab==4.2.0
+jupyterlab_code_formatter==2.2.1
+black==24.4.2
+scikit-learn==1.5.1
+torch==2.3.0
+torchvision==0.18.0
+torchtext
+torchaudio==2.3.0
+torchviz==0.0.2
+torchinfo==1.8.0
+matplotlib==3.9.0
+pandas==2.2.2
+seaborn==0.13.0
+polars==0.20.26
+plotly==5.22.0
+lightgbm==4.3.0
